@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Titillium Web, sans-serif;
+}
+h1{
+    text-align: center;
+}
+.adc{
+    text-align: center;
+    margin-top: 2rem;
+}
+.adctexto{
+    width: 400px;
+}
+.adicionar{
+    width: 15px;
+}
+.atvs{
+    text-align: center;
+    margin-top: 1rem;
+}
+.atvs img{
+    max-width: 15px;
+    max-height:15px;
+    width: auto;
+    height: auto;
+}
+.atvs input{
+    margin-top: 1rem;
+}
+
+main{
+    background: cornsilk;
+    height: 10rem;
+    position: fixed;
+    width: 100%;
+}
